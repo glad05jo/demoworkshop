@@ -48,7 +48,7 @@ environments :
     base_url : "https://opensource-demo.orangehrmlive.com/"
     browser:
       - chrome
-      - edge
-      - firefox
+#      - edge
+#      - firefox
     username: "Admin"
     password: "admin123"
